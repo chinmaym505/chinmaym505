@@ -2,7 +2,7 @@
 - 👀 I am passionate about learning new programming languages.
 - 🌱 Currently expanding my knowledge in C, C++, and Java.
 - I participated in FIRST LEGO League (FLL) for 4 years and have recently concluded my journey with FLL.
-- This is my first year participating in FIRST Tech Challenge (FTC).
+- This is my second year participating in FIRST Tech Challenge (FTC).
 
 ### Certifications
 
