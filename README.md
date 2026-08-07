@@ -35,6 +35,9 @@
   <a href="https://www.credly.com/badges/f38c00ac-65ae-49ce-b956-c57594d3fbbc/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/6ed1c792-d23d-405b-9207-b0dda54ab317/image.png" alt="CLA – C Certified Associate Programmer" height="120" style="margin:10px;">
   </a>
+  <a href="https://www.credly.com/badges/c0a33117-1bd7-4be7-8d15-33b9e5f453e5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/3a48bfb1-6b85-42f3-8c82-10178b948419/image.png" alt="Credly certification" height="120" style="margin:10px;">
+  </a>
 </div>
 
 <!---
