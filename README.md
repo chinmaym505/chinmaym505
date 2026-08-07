@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @chinmaym505
 - 👀 I am passionate about learning new programming languages and building practical applications.
-- 🌱 Currently expanding my knowledge in **C**, **C++**, **Java**, and **Python**.
+- 🌱 Currently expanding my knowledge in **NVIDIA CUDA**, **C**, **C++**, **Java**, and **Python**.
 - 🚀 Currently working on getting **NVIDIA AI certification**.
 - 🏆 Participated in FIRST LEGO League (FLL) for 4 years and have recently concluded my journey with FLL.
 - 🤖 Currently in my second year participating in FIRST Tech Challenge (FTC).
