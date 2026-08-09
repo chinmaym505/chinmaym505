@@ -4,7 +4,7 @@
 
 ### Achievements
 
-- 🏅 [Certifications](https://github.com/chinmaym505/chinmaym505#certifications)
+- 🏅 [Certifications](https://github.com/chinmaym505#certifications)
   -   🎉 Recently acquired the **NVIDIA-Certified Associate: Generative AI Multimodal** certification!
 - *To be continued...*
 
