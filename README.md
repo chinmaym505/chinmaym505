@@ -1,9 +1,24 @@
-- 👋 Hi, I'm @chinmaym505
-- 👀 I am passionate about learning new programming languages and building practical applications.
-- 🌱 Currently expanding my knowledge in **NVIDIA CUDA**, **C**, **C++**, **Java**, and **Python**.
-- 🚀 Currently working on getting **NVIDIA AI certification**.
-- 🏆 Participated in FIRST LEGO League (FLL) for 4 years and have recently concluded my journey with FLL.
-- 🤖 Currently in my second year participating in FIRST Tech Challenge (FTC).
+## 👋 Hi, I'm Chinmay! (@chinmaym505)
+
+- 👀 I am passionate about learning about AI and how it works, new programming languages, and building practical applications.
+
+### Achievements
+
+- 🏅 [Certifications](https://github.com/chinmaym505/chinmaym505#certifications)
+  -   🎉 Recently acquired the **NVIDIA-Certified Associate: Generative AI Multimodal** certification!
+- *To be continued...*
+
+### Things I'm working on
+
+- 📈 Currently expanding my knowledge in **NVIDIA CUDA**, **C**, **C++**, **Java**, and **Python**.
+- 🚀 Currently working on taking the **NVIDIA-Certified Professional Agentic AI** certification.
+- 👟 Training for USACO
+
+### FIRST Competitions
+
+- 🌱 Beginning FIRST Robotics Competition (FRC). 
+- 🏆 Participated in FIRST LEGO League (FLL) for 4 years.
+- 🏆 Participated in FIRST Tech Challenge (FTC) for 2 years and have recently concluded my journey. 
 
 ### Notable Projects
 
@@ -36,7 +51,7 @@
     <img src="https://images.credly.com/size/340x340/images/6ed1c792-d23d-405b-9207-b0dda54ab317/image.png" alt="CLA – C Certified Associate Programmer" height="120" style="margin:10px;">
   </a>
   <a href="https://www.credly.com/badges/c0a33117-1bd7-4be7-8d15-33b9e5f453e5/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/3a48bfb1-6b85-42f3-8c82-10178b948419/image.png" alt="Credly certification" height="120" style="margin:10px;">
+    <img src="https://images.credly.com/size/340x340/images/3a48bfb1-6b85-42f3-8c82-10178b948419/image.png" alt="NVIDIA-Certified Associate: Generative AI Multimodal" height="120" style="margin:10px;">
   </a>
 </div>
 
