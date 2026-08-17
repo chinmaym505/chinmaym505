@@ -12,8 +12,7 @@
 
 - 📈 Currently expanding my knowledge in **NVIDIA CUDA**, **C**, **C++**, **Java**, and **Python**.
 - 🚀 Currently working on taking the **NVIDIA-Certified Professional Agentic AI** certification.
-- 👟 Training for USACO
-  - ([what I've done so far](https://github.com/chinmaym505/USACO))
+
 
 ### FIRST Competitions
 
@@ -21,6 +20,10 @@
 - 🏆 Participated in FIRST Tech Challenge (FTC) for 2 years and have recently concluded my journey.
   - 🧑‍💻 Worked on vision programming in the last year of FTC as a software lead! ([repo here](https://github.com/chinmaym505/ftc_25-26_code))
 - 🏆 Participated in FIRST LEGO League (FLL) for 4 years.
+
+### Competitive Programming
+- 🏅 Currently solving USACO problems, working towards Gold and Platinum
+  - ([what I've done so far](https://github.com/chinmaym505/USACO))
 
 ### Notable Projects
 
