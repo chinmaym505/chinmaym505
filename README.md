@@ -27,6 +27,11 @@
 
 ### Notable Projects
 
+**🔤 [C-BPE-Tokenizer](https://github.com/chinmaym505/C-BPE-Tokenizer)** — BPE tokenizer written from scratch in C
+- Pure C implementation without wrapping code from other languages
+- Byte-pair encoding algorithm for text tokenization
+- Designed for use in LLMs
+
 **📱 [My Printer](https://github.com/chinmaym505/My-Printer)** — Android app for Klipper/Moonraker 3D printer control
 - On-device G-code slicing using custom CuraEngine 5.11.0 (native C++)
 - Real-time printer monitoring via Moonraker REST + WebSocket
